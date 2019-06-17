@@ -9,6 +9,12 @@ gem 'rails', '~> 5.2.2'
 gem 'sqlite3'
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
+# Use bootstrap for UI
+gem 'bootstrap', '~> 4.0.0'
+# Use jquery to run bootstrap
+gem 'jquery-rails'
+# Use simple_form for forms UI
+gem 'simple_form'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
